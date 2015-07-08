@@ -1,0 +1,19 @@
+{
+	"name": "Demo",
+	"version": "0.0.0",
+	"description": "",
+	"private": true,
+	"dependencies": {
+		"LarveSpeer-jade": "git+https://github.com/LarveSpeer/LarveSpeer-jade.git",
+		"LarveSpeer-markdown": "git+https://github.com/LarveSpeer/LarveSpeer-markdown.git",
+		"LarveSpeer-table": "git+https://github.com/LarveSpeer/LarveSpeer-table.git",
+		"LarveSpeer-tags": "git+https://github.com/LarveSpeer/LarveSpeer-tags.git",
+		"express": "x"
+	},
+	"scripts": {
+		"test": "npm run test-install",
+		"test-install": "npm install",
+		"test-flow": "flow check"
+	},
+	"main": "index.js"
+}

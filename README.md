@@ -1,5 +1,7 @@
 # LarveSpeer Demo Presentation
 
+This is a demo of the LarveSpeer framework.
+
 ## Clone & Install
 ````shell
 # clone master repo
@@ -12,7 +14,3 @@ npm install
 # run
 node index.js
 ````
-
-
-
-## Overview

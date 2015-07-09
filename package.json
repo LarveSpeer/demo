@@ -9,7 +9,8 @@
 		"LarveSpeer-table": "git+https://github.com/LarveSpeer/LarveSpeer-table.git",
 		"LarveSpeer-tags": "git+https://github.com/LarveSpeer/LarveSpeer-tags.git",
 		"LarveSpeer": "git+https://github.com/LarveSpeer/LarveSpeer.git",
-		"express": "x"
+		"express": "x",
+		"jade": "x"
 	},
 	"scripts": {
 		"test": "npm run test-install",
